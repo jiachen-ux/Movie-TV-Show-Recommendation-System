@@ -5,11 +5,10 @@ This is a content-based recommendation system which compute the similarities amo
 
 ## Features
 
-* **Recommendation**
-- allow user to 
-* **Searching**
-* **Filtering**
-
+### Recommendation
+Based on the user's perference, the application is able to recommend similar movies/TV shows that the user might like.
+### Searching
+The searching function allows the user to search Movies/TV shows by given keywords.
 
 ## Author
 
